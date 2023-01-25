@@ -12,12 +12,12 @@ They are written in C, the language we learn all the first year.
 
 I'm currently working on a web application project to synchronize calendars in the same way that Google Angenda can do it.  
 I think it's a good practice to develop my skills in languages that I'm not learning yet in my school curriculum.  
-Here are some languages or technologies I am learning and trying to implement: 
-&nbsp;- HTML;  
-&nbsp;- CSS;  
-&nbsp;- Javascript;  
-&nbsp;- PHP;  
-&nbsp;- MySQL.  
+Here are some languages or technologies I am learning and trying to implement:  
+&nbsp;- HTML    
+&nbsp;- CSS    
+&nbsp;- Javascript    
+&nbsp;- PHP  
+&nbsp;- MySQL.    
 
 
 
