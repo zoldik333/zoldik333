@@ -12,26 +12,9 @@ They are written in C, the language we learn all the first year.
 
 I'm currently working on a web application project to synchronize calendars in the same way that Google Angenda can do it.  
 I think it's a good practice to develop my skills in languages that I'm not learning yet in my school curriculum.  
-Here are some languages or technologies I am learning and trying to implement:  
-&nbsp;- HTML    
-&nbsp;- CSS    
-&nbsp;- Javascript    
+You can check my notes on my public repo https://github.com/zoldik333/Epicalendar
+Here are some languages or technologies that I am learning and trying to implement:  
+&nbsp;- HTML, CSS (with Tailwind) and Reactjs for the front-end
+&nbsp;- Javascript
 &nbsp;- PHP  
 &nbsp;- MySQL.    
-
-
-
-<!--
-**zoldik333/zoldik333** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
