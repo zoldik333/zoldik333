@@ -17,4 +17,5 @@ Here are some languages or technologies that I am learning and trying to impleme
 &nbsp;- HTML, CSS (with Tailwind) and Reactjs for the front-end  
 &nbsp;- Javascript  
 &nbsp;- PHP  
-&nbsp;- MySQL.    
+&nbsp;- MySQL  
+&nbsp;- Rest API.
